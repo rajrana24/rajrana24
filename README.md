@@ -1,4 +1,5 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/composition-on-theme-python-programming-language-1861053121)]
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.flexsin.com%2Fimages%2Fpython-banner.jpg&tbnid=XfAtUEDJ3pXv_M&vet=10CDMQMyjmAWoXChMIsOanwOWWgQMVAAAAAB0AAAAAEAQ..i&imgrefurl=https%3A%2F%2Fwww.flexsin.com%2Fsoftware-web-development%2Fpython-development.php&docid=MPqbmiDem0IR_M&w=1900&h=490&q=python%20banner%20images&ved=0CDMQMyjmAWoXChMIsOanwOWWgQMVAAAAAB0AAAAAEAQ)](https://github.com/rajrana24)
+
 
 <h1 align="center">Hi 👋, I'm rajrana24</h1>
 <h3 align="center">A passionate learner from India</h3>
