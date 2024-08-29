@@ -5,15 +5,15 @@
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
-- 🔭 I’m currently working on **ai and ml**
+- 🔭 I’m currently building a E-commerce website
 
-- 🌱 I’m currently learning **artificial intelligence and machine learning**
+- 🌱 I’m currently learning **flask**
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **rajranaa024@gmail.com**
 
-- ⚡ Fun fact **"Making the world a better place through code and kindness 🌟"**
+- ⚡ Fun fact **"Making the world a better place through tech and innovation 🌟"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
